@@ -23,7 +23,7 @@ Quickstart
 
 Install A+E Django OKTA Auth::
 
-    pip install -e git+git://github.com/nabaz/ae-okta-auth.git#egg=django-ae-okta-aCollecting django-ae-okta-auth from git+git://github.com/nabaz/ae-okta-auth.git#egg=django-ae-okta-auth
+    pip install -e git+git://github.com/nabaz/ae-okta-auth.git#egg=django-ae-okta-auth
 
 Add it to your `INSTALLED_APPS`:
 
