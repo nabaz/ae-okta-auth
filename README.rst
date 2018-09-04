@@ -25,6 +25,11 @@ Install A+E Django OKTA Auth::
 
     pip install -e git+git://github.com/nabaz/ae-okta-auth.git#egg=django-ae-okta-auth
 
+
+Dependensies:
+
+pip install djangosaml2
+
 Add it to your `INSTALLED_APPS`:
 
 .. code-block:: python
